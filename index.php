@@ -2,9 +2,9 @@
 
 
 
-echo "Hello World Mazafaka!";
+echo "Lets' rock!";
 
-
+if($a==2) echo "fuack off";
 
 
 ?>
